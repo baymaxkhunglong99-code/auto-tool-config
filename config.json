@@ -1,15 +1,16 @@
 {
-  "version": "2.4.0",
-  "lastUpdated": "2025-12-04T17:35:00+07:00",
-  "configUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/config.json",
-  "sites": {
+  "version": "2.3.3",
+  "anticaptchaApiKey": "ccf3628d033f0edb0642d1673dd7479d",
+  "configUrl": "https://gist.githubusercontent.com/YOUR_USERNAME/YOUR_GIST_ID/raw/config.json",
+  "updateInterval": 86400000,
+  "siteUrls": {
     "j88": "https://m.j859.xyz/Account/Register",
     "u888": "https://m.u888qj.link/Account/Register",
     "abc8": "https://m.0sftd.fun/Account/Register?app=1",
     "88clb": "https://m.88clb2jt.buzz/Account/Register",
     "hi88": "https://m.www-24h-com-vn-com.com/Account/Register",
     "f8bet": "https://m.jsdujkg8djjkuqw8czbm.com/Account/Register",
-    "shbet": "https://djifshuie89shjdhsdxbvckrgio.com/Account/Register",
+    "shbet": "https://m.djifshuie89shjdhsdxbvckrgio.com/Account/Register",
     "new88": "https://m.dxiidnc84gkoopfcmbpwhsgf.com/Account/Register",
     "mb66": "https://m.wtyurfuijkxcvklrhyli3imxjuuflegmgkiow3i.com/Account/Register",
     "789bet": "https://d1rm59dbjot48j.cloudfront.net/789.html",
@@ -46,33 +47,5 @@
     "98win": "https://m.984798.com/Account/Register",
     "33win": "https://555win33.com?fixed.iswebclip=2",
     "vswin": "https://m.vswin.org/Account/Register"
-  },
-  "promoUrls": {
-    "deposit": {
-      "shbet": "https://khuyenmai-shbet01.pages.dev//?promo_id=SH188",
-      "f8bet": "https://ttkm-f8bet01.pages.dev/?promo_id=ND188",
-      "new88": "https://khuyenmai-new88okvip1.pages.dev/?promo_id=ND188",
-      "hi88": "https://tangqua88.com/?promo_id=ND188",
-      "789bet": "https://ttkm789bet04.pages.dev/",
-      "mb66": "https://ttkm-mb66okvip02.pages.dev/",
-      "jun88": "https://TODO-LINK-KM-JUN88.com",
-      "78win": "https://TODO-LINK-KM-78WIN.com"
-    },
-    "experience": {
-      "shbet": "https://khuyenmai-shbet01.pages.dev/?promo_id=SH57K",
-      "f8bet": "https://ttkm-f8bet01.pages.dev/?promo_id=KM68",
-      "new88": "https://khuyenmai-new88okvip1.pages.dev/?promo_id=N58",
-      "hi88": "https://tangqua88.com/?promo_id=KM58",
-      "789bet": "https://ttkm789bet04.pages.dev/",
-      "mb66": "https://ttkm-mb66okvip02.pages.dev/"
-    }
-  },
-  "interfaceGroups": {
-    "type1": ["shbet", "f8bet", "new88", "hi88", "789bet", "mb66"],
-    "type2": ["qq88", "rr88", "xx88", "mm88", "x88"],
-    "type3": ["j88", "u888", "abc8", "88clb"],
-    "type4": ["89bet", "hubet", "king88", "cwin", "hello88", "win55", "39bet", "okking", "kl99", "kuwin", "okvnd", "ffok", "xin88", "gk88", "go99", "nohu", "tt88", "mmoo", "789p", "pg66", "8kbet", "789win", "88vv", "98win", "33win", "vswin"]
   }
 }
-
-
